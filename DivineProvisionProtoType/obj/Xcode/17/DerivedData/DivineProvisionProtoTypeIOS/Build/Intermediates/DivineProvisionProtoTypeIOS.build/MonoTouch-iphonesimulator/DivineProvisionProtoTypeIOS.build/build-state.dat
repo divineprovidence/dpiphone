@@ -1,0 +1,365 @@
+TDivineProvisionProtoTypeIOS
+v4
+r1
+cCheck dependencies
+cCompileC DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/MainScreen-8244CCCDF30256F7.o /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/MainScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/AppDelegate-4F47623DA73956ED.o /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/LoginScreen-7513E083DF9D91D6.o /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/LoginScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/JobDetailScreen-4D1E3B6BF542BCE6.o /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/JobDetailScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/UserDetailScreen-F2C969A34E6581D3.o /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/UserDetailScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/JobBidDetailScreen-836F8654005913F9.o /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/JobBidDetailScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/LocationDetailScreen-CF392209344914BF.o /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/LocationDetailScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/RegisterUser-8523524DDE4FB0C9.o /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/RegisterUser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Products/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.app/DivineProvisionProtoTypeIOS normal i386
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk
+c000000004EFBF7B20000000000000110
+t1325135794
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004E72F1CC0000000000245480
+t1316155852
+s2380928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004E72F2960000000000353830
+t1316156054
+s3487792
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004E7807EF00000000000D89E0
+t1316489199
+s887264
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004E7806AB00000000008F7390
+t1316488875
+s9401232
+
+N/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/AppDelegate.m
+c0000000051E9D0FE0000000000000144
+t1374277886
+s324
+
+N/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/AppDelegate-4F47623DA73956ED.o
+t2
+s0
+
+N/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/DivineProvisionProtoTypeIOS.LinkFileList
+c0000000051EBE4030000000000000959
+t1374413827
+s2393
+
+N/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/JobBidDetailScreen-836F8654005913F9.o
+t2
+s0
+
+N/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/JobDetailScreen-4D1E3B6BF542BCE6.o
+t2
+s0
+
+N/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/LocationDetailScreen-CF392209344914BF.o
+t2
+s0
+
+N/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/LoginScreen-7513E083DF9D91D6.o
+t2
+s0
+
+N/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/MainScreen-8244CCCDF30256F7.o
+t2
+s0
+
+N/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/RegisterUser-8523524DDE4FB0C9.o
+t2
+s0
+
+N/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/UserDetailScreen-F2C969A34E6581D3.o
+t2
+s0
+
+N/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Products/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.app
+t2
+s0
+
+N/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Products/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.app.dSYM
+t2
+s0
+
+N/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Products/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.app/DivineProvisionProtoTypeIOS
+t2
+s0
+
+N/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Products/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.app/JobBidDetailScreen.nib
+t2
+s0
+
+N/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Products/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.app/JobDetailScreen.nib
+t2
+s0
+
+N/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Products/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.app/LocationDetailScreen.nib
+t2
+s0
+
+N/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Products/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.app/LoginScreen.nib
+t2
+s0
+
+N/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Products/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.app/MainScreen.nib
+t2
+s0
+
+N/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Products/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.app/RegisterUser.nib
+t2
+s0
+
+N/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Products/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.app/UserDetailScreen.nib
+t2
+s0
+
+N/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/JobBidDetailScreen.m
+c0000000051EA9C320000000000000261
+t1374329906
+s609
+
+N/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/JobDetailScreen.m
+c0000000051EAA2870000000000000354
+t1374331527
+s852
+
+N/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/LocationDetailScreen.m
+c0000000051EBD93C000000000000021D
+t1374411068
+s541
+
+N/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/LoginScreen.m
+c0000000051EBE1EC0000000000000287
+t1374413292
+s647
+
+N/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/MainScreen.m
+c0000000051EAA1E70000000000000185
+t1374331367
+s389
+
+N/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/RegisterUser.m
+c0000000051EBE2170000000000000146
+t1374413335
+s326
+
+N/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/Screens/JobBidDetail/JobBidDetailScreen.xib
+c0000000051EBE1630000000000004AF0
+t1374413155
+s19184
+
+N/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/Screens/JobDetails/JobDetailScreen.xib
+c0000000051EBE163000000000000650B
+t1374413155
+s25867
+
+N/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/Screens/LocationDetails/LocationDetailScreen.xib
+c0000000051EBE16300000000000058E0
+t1374413155
+s22752
+
+N/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/Screens/LoginScreen.xib
+c0000000051EBE1630000000000005828
+t1374413155
+s22568
+
+N/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/Screens/MainScreen/MainScreen.xib
+c0000000051EBE1630000000000003E45
+t1374413155
+s15941
+
+N/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/Screens/UserDetail/RegisterUser.xib
+c0000000051EBE4030000000000002DA8
+t1374413827
+s11688
+
+N/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/Screens/UserDetail/UserDetailScreen.xib
+c0000000051EBE1630000000000007301
+t1374413155
+s29441
+
+N/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/UserDetailScreen.m
+c0000000051EBD8FA00000000000002AA
+t1374411002
+s682
+
+CBuild AST from /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/AppDelegate.m
+r0
+
+CBuild AST from /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/JobBidDetailScreen.m
+r0
+
+CBuild AST from /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/JobDetailScreen.m
+r0
+
+CBuild AST from /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/LocationDetailScreen.m
+r0
+
+CBuild AST from /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/LoginScreen.m
+r0
+
+CBuild AST from /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/MainScreen.m
+r0
+
+CBuild AST from /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/RegisterUser.m
+r0
+
+CBuild AST from /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/UserDetailScreen.m
+r0
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies621543831b9cb741^93fc6c831b9cb741^-945"[WARN]warning: no rule to process file '$(PROJECT_DIR)/AppDelegate.h' of type sourcecode.c.h for architecture i386[WARN]warning: no rule to process file '$(PROJECT_DIR)/LoginScreen.h' of type sourcecode.c.h for architecture i386[WARN]warning: no rule to process file '$(PROJECT_DIR)/MainScreen.h' of type sourcecode.c.h for architecture i386[WARN]warning: no rule to process file '$(PROJECT_DIR)/JobDetailScreen.h' of type sourcecode.c.h for architecture i386[WARN]warning: no rule to process file '$(PROJECT_DIR)/UserDetailScreen.h' of type sourcecode.c.h for architecture i386[WARN]warning: no rule to process file '$(PROJECT_DIR)/JobBidDetailScreen.h' of type sourcecode.c.h for architecture i386[WARN]warning: no rule to process file '$(PROJECT_DIR)/LocationDetailScreen.h' of type sourcecode.c.h for architecture i386[WARN]warning: no rule to process file '$(PROJECT_DIR)/RegisterUser.h' of type sourcecode.c.h for architecture i3868(21%IDEActivityLogMessage2@108"warning: no rule to process file '$(PROJECT_DIR)/AppDelegate.h' of type sourcecode.c.h for architecture i386-396106627#18446744073709551615#0#-1#-----2@108"warning: no rule to process file '$(PROJECT_DIR)/LoginScreen.h' of type sourcecode.c.h for architecture i386-396106627#18446744073709551615#0#-1#-----2@107"warning: no rule to process file '$(PROJECT_DIR)/MainScreen.h' of type sourcecode.c.h for architecture i386-396106627#18446744073709551615#0#-1#-----2@112"warning: no rule to process file '$(PROJECT_DIR)/JobDetailScreen.h' of type sourcecode.c.h for architecture i386-396106627#18446744073709551615#0#-1#-----2@113"warning: no rule to process file '$(PROJECT_DIR)/UserDetailScreen.h' of type sourcecode.c.h for architecture i386-396106627#18446744073709551615#0#-1#-----2@115"warning: no rule to process file '$(PROJECT_DIR)/JobBidDetailScreen.h' of type sourcecode.c.h for architecture i386-396106627#18446744073709551615#0#-1#-----2@117"warning: no rule to process file '$(PROJECT_DIR)/LocationDetailScreen.h' of type sourcecode.c.h for architecture i386-396106627#18446744073709551615#0#-1#-----2@109"warning: no rule to process file '$(PROJECT_DIR)/RegisterUser.h' of type sourcecode.c.h for architecture i386-396106627#18446744073709551615#0#-1#-----0#1#0#--18"Check dependencies36"E0538C04-F81B-48A6-8AB8-AF85D650EEDB-
+
+CCompileC DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/AppDelegate-4F47623DA73956ED.o /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396106627.456990
+e396106628.546326
+r1
+xCompileC
+xDerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/AppDelegate-4F47623DA73956ED.o
+x/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compile /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/AppDelegate.md78775831b9cb741^5edb8b841b9cb741^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/AppDelegate.m0000000000000000^4246"CompileC DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/AppDelegate-4F47623DA73956ED.o AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Applications/Xamarin Studio.app/Contents/MacOS:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/DivineProvisionProtoTypeIOS-generated-files.hmap -I/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/DivineProvisionProtoTypeIOS-own-target-headers.hmap -I/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/DivineProvisionProtoTypeIOS-all-target-headers.hmap -iquote /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/DivineProvisionProtoTypeIOS-project-headers.hmap -I/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Products/MonoTouch-iphonesimulator/include -I/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/DerivedSources/i386 -I/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/DerivedSources -F/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Products/MonoTouch-iphonesimulator -MMD -MT dependencies -MF /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/AppDelegate-4F47623DA73956ED.d -c /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/AppDelegate.m -o /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/AppDelegate-4F47623DA73956ED.o36"BA7F4353-FB57-4B6F-ADFC-FA8794589199-
+
+CCompileC DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/JobBidDetailScreen-836F8654005913F9.o /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/JobBidDetailScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396106628.616599
+e396106628.826525
+r1
+xCompileC
+xDerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/JobBidDetailScreen-836F8654005913F9.o
+x/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/JobBidDetailScreen.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compile /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/JobBidDetailScreen.mfcfe9d841b9cb741^d93d05851b9cb741^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/JobBidDetailScreen.m0000000000000000^4281"CompileC DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/JobBidDetailScreen-836F8654005913F9.o JobBidDetailScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Applications/Xamarin Studio.app/Contents/MacOS:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/DivineProvisionProtoTypeIOS-generated-files.hmap -I/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/DivineProvisionProtoTypeIOS-own-target-headers.hmap -I/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/DivineProvisionProtoTypeIOS-all-target-headers.hmap -iquote /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/DivineProvisionProtoTypeIOS-project-headers.hmap -I/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Products/MonoTouch-iphonesimulator/include -I/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/DerivedSources/i386 -I/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/DerivedSources -F/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Products/MonoTouch-iphonesimulator -MMD -MT dependencies -MF /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/JobBidDetailScreen-836F8654005913F9.d -c /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/JobBidDetailScreen.m -o /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/JobBidDetailScreen-836F8654005913F9.o36"61152249-7FF2-4CE3-9479-7BB53E57C989-
+
+CCompileC DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/JobDetailScreen-4D1E3B6BF542BCE6.o /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/JobDetailScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396106627.457069
+e396106628.616578
+r1
+xCompileC
+xDerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/JobDetailScreen-4D1E3B6BF542BCE6.o
+x/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/JobDetailScreen.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compile /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/JobDetailScreen.m027e75831b9cb741^34d79d841b9cb741^---0#0#0#-19%DVTDocumentLocation2@124"file://localhost/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/JobDetailScreen.m0000000000000000^4266"CompileC DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/JobDetailScreen-4D1E3B6BF542BCE6.o JobDetailScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Applications/Xamarin Studio.app/Contents/MacOS:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/DivineProvisionProtoTypeIOS-generated-files.hmap -I/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/DivineProvisionProtoTypeIOS-own-target-headers.hmap -I/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/DivineProvisionProtoTypeIOS-all-target-headers.hmap -iquote /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/DivineProvisionProtoTypeIOS-project-headers.hmap -I/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Products/MonoTouch-iphonesimulator/include -I/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/DerivedSources/i386 -I/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/DerivedSources -F/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Products/MonoTouch-iphonesimulator -MMD -MT dependencies -MF /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/JobDetailScreen-4D1E3B6BF542BCE6.d -c /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/JobDetailScreen.m -o /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/JobDetailScreen-4D1E3B6BF542BCE6.o36"FB04B4E6-9EF9-46C3-AA27-2160FA8AF128-
+
+CCompileC DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/LocationDetailScreen-CF392209344914BF.o /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/LocationDetailScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396106628.616665
+e396106628.844566
+r1
+xCompileC
+xDerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/LocationDetailScreen-CF392209344914BF.o
+x/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/LocationDetailScreen.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Compile /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/LocationDetailScreen.m0ef79d841b9cb741^ff4005851b9cb741^---0#0#0#-19%DVTDocumentLocation2@129"file://localhost/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/LocationDetailScreen.m0000000000000000^4291"CompileC DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/LocationDetailScreen-CF392209344914BF.o LocationDetailScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Applications/Xamarin Studio.app/Contents/MacOS:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/DivineProvisionProtoTypeIOS-generated-files.hmap -I/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/DivineProvisionProtoTypeIOS-own-target-headers.hmap -I/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/DivineProvisionProtoTypeIOS-all-target-headers.hmap -iquote /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/DivineProvisionProtoTypeIOS-project-headers.hmap -I/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Products/MonoTouch-iphonesimulator/include -I/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/DerivedSources/i386 -I/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/DerivedSources -F/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Products/MonoTouch-iphonesimulator -MMD -MT dependencies -MF /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/LocationDetailScreen-CF392209344914BF.d -c /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/LocationDetailScreen.m -o /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/LocationDetailScreen-CF392209344914BF.o36"ADE8F25B-F2CA-43AE-BACF-E84C05AC183A-
+
+CCompileC DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/LoginScreen-7513E083DF9D91D6.o /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/LoginScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396106627.457012
+e396106628.615623
+r1
+xCompileC
+xDerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/LoginScreen-7513E083DF9D91D6.o
+x/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/LoginScreen.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compile /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/LoginScreen.m787e75831b9cb741^fe999d841b9cb741^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/LoginScreen.m0000000000000000^4246"CompileC DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/LoginScreen-7513E083DF9D91D6.o LoginScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Applications/Xamarin Studio.app/Contents/MacOS:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/DivineProvisionProtoTypeIOS-generated-files.hmap -I/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/DivineProvisionProtoTypeIOS-own-target-headers.hmap -I/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/DivineProvisionProtoTypeIOS-all-target-headers.hmap -iquote /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/DivineProvisionProtoTypeIOS-project-headers.hmap -I/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Products/MonoTouch-iphonesimulator/include -I/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/DerivedSources/i386 -I/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/DerivedSources -F/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Products/MonoTouch-iphonesimulator -MMD -MT dependencies -MF /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/LoginScreen-7513E083DF9D91D6.d -c /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/LoginScreen.m -o /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/LoginScreen-7513E083DF9D91D6.o36"0A071B54-BB5B-4CE1-964F-A023F297A506-
+
+CCompileC DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/MainScreen-8244CCCDF30256F7.o /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/MainScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396106627.456981
+e396106628.615296
+r1
+xCompileC
+xDerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/MainScreen-8244CCCDF30256F7.o
+x/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/MainScreen.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compile /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/MainScreen.m0e8375831b9cb741^0c8f9d841b9cb741^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/MainScreen.m0000000000000000^4241"CompileC DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/MainScreen-8244CCCDF30256F7.o MainScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Applications/Xamarin Studio.app/Contents/MacOS:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/DivineProvisionProtoTypeIOS-generated-files.hmap -I/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/DivineProvisionProtoTypeIOS-own-target-headers.hmap -I/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/DivineProvisionProtoTypeIOS-all-target-headers.hmap -iquote /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/DivineProvisionProtoTypeIOS-project-headers.hmap -I/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Products/MonoTouch-iphonesimulator/include -I/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/DerivedSources/i386 -I/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/DerivedSources -F/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Products/MonoTouch-iphonesimulator -MMD -MT dependencies -MF /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/MainScreen-8244CCCDF30256F7.d -c /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/MainScreen.m -o /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/MainScreen-8244CCCDF30256F7.o36"8D59A76B-1F8F-4DDB-AC4D-42FF2BED3841-
+
+CCompileC DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/RegisterUser-8523524DDE4FB0C9.o /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/RegisterUser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396106628.617763
+e396106628.824097
+r1
+xCompileC
+xDerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/RegisterUser-8523524DDE4FB0C9.o
+x/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/RegisterUser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Compile /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/RegisterUser.md0469e841b9cb741^c53a05851b9cb741^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/RegisterUser.m0000000000000000^4251"CompileC DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/RegisterUser-8523524DDE4FB0C9.o RegisterUser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Applications/Xamarin Studio.app/Contents/MacOS:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/DivineProvisionProtoTypeIOS-generated-files.hmap -I/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/DivineProvisionProtoTypeIOS-own-target-headers.hmap -I/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/DivineProvisionProtoTypeIOS-all-target-headers.hmap -iquote /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/DivineProvisionProtoTypeIOS-project-headers.hmap -I/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Products/MonoTouch-iphonesimulator/include -I/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/DerivedSources/i386 -I/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/DerivedSources -F/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Products/MonoTouch-iphonesimulator -MMD -MT dependencies -MF /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/RegisterUser-8523524DDE4FB0C9.d -c /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/RegisterUser.m -o /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/RegisterUser-8523524DDE4FB0C9.o36"80D134D3-F776-4A43-BE81-589B529CB2B2-
+
+CCompileC DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/UserDetailScreen-F2C969A34E6581D3.o /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/UserDetailScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396106628.547665
+e396106628.730784
+r1
+xCompileC
+xDerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/UserDetailScreen-F2C969A34E6581D3.o
+x/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/UserDetailScreen.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Compile /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/UserDetailScreen.m3c4b8c841b9cb741^eb3505851b9cb741^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/UserDetailScreen.m0000000000000000^4271"CompileC DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/UserDetailScreen-F2C969A34E6581D3.o UserDetailScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Applications/Xamarin Studio.app/Contents/MacOS:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/DivineProvisionProtoTypeIOS-generated-files.hmap -I/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/DivineProvisionProtoTypeIOS-own-target-headers.hmap -I/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/DivineProvisionProtoTypeIOS-all-target-headers.hmap -iquote /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/DivineProvisionProtoTypeIOS-project-headers.hmap -I/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Products/MonoTouch-iphonesimulator/include -I/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/DerivedSources/i386 -I/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/DerivedSources -F/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Products/MonoTouch-iphonesimulator -MMD -MT dependencies -MF /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/UserDetailScreen-F2C969A34E6581D3.d -c /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/UserDetailScreen.m -o /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/UserDetailScreen-F2C969A34E6581D3.o36"04704429-CBB1-452F-90DE-98AC520EAE70-
+
+CCompileXIB /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/Screens/JobBidDetail/JobBidDetailScreen.xib
+r0
+
+CCompileXIB /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/Screens/JobDetails/JobDetailScreen.xib
+r0
+
+CCompileXIB /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/Screens/LocationDetails/LocationDetailScreen.xib
+r0
+
+CCompileXIB /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/Screens/LoginScreen.xib
+r0
+
+CCompileXIB /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/Screens/MainScreen/MainScreen.xib
+r0
+
+CCompileXIB /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/Screens/UserDetail/RegisterUser.xib
+r0
+
+CCompileXIB /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/Screens/UserDetail/UserDetailScreen.xib
+r0
+
+CGenerateDSYMFile /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Products/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.app.dSYM /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Products/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.app/DivineProvisionProtoTypeIOS
+r0
+
+CLd /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Products/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.app/DivineProvisionProtoTypeIOS normal i386
+s396106628.851354
+e396106628.939132
+r0
+xLd
+x/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Products/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.app/DivineProvisionProtoTypeIOS
+xnormal
+xi386
+oUndefined symbols for architecture i386:
+o  "_main", referenced from:
+o      start in crt1.10.6.o
+old: symbol(s) not found for architecture i386
+oclang: error: linker command failed with exit code 1 (use -v to see invocation)
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection236"Link /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Products/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.app/DivineProvisionProtoTypeIOSfe0dda841b9cb741^2e5905851b9cb741^-222"Undefined symbols for architecture i386:  "_main", referenced from:      start in crt1.10.6.old: symbol(s) not found for architecture i386clang: error: linker command failed with exit code 1 (use -v to see invocation)4(21%IDEActivityLogMessage2@25""_main", referenced from:-396106628#41#28#-2#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@20"Start in crt1.10.6.o-396106628#69#27#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@41"Symbol(s) not found for architecture i386-396106628#96#46#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@79"Clang: error: linker command failed with exit code 1 (use -v to see invocation)-396106628#142#80#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--0#0#0#--1767"Ld DerivedData/DivineProvisionProtoTypeIOS/Build/Products/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.app/DivineProvisionProtoTypeIOS normal i386    cd /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Applications/Xamarin Studio.app/Contents/MacOS:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -L/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Products/MonoTouch-iphonesimulator -F/Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Products/MonoTouch-iphonesimulator -filelist /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Intermediates/DivineProvisionProtoTypeIOS.build/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.build/Objects-normal/i386/DivineProvisionProtoTypeIOS.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -framework UIKit -framework MapKit -framework Foundation -framework CoreGraphics -o /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Products/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.app/DivineProvisionProtoTypeIOS36"1610DDBE-FCBA-4AED-9C27-ACC30BFAB8A9-
+
+CTouch /Users/arifliminto/Projects/DivineProvisionProtoType/DivineProvisionProtoType/obj/Xcode/17/DerivedData/DivineProvisionProtoTypeIOS/Build/Products/MonoTouch-iphonesimulator/DivineProvisionProtoTypeIOS.app
+r0
+

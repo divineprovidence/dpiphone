@@ -1,0 +1,40 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone.5.0" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DivineProvisionProtoType/Screens/LoginScreen.cs">
+    <Files>
+      <File FileName="DivineProvisionProtoType/Screens/JobBidDetail/JobBidDetailScreen.cs" Line="1" Column="1" />
+      <File FileName="DivineProvisionProtoType/Mocker/UserMockerHelper.cs" Line="1" Column="1" />
+      <File FileName="DivineProvisionProtoType/Screens/UserDetail/RegisterUser.cs" Line="57" Column="70" />
+      <File FileName="DivineProvisionProtoType/Screens/LoginScreen.cs" Line="99" Column="4" />
+      <File FileName="DivineProvisionProtoType/Screens/MainScreen/MainScreen.cs" Line="49" Column="3" />
+      <File FileName="DivineProvisionProtoType/Info.plist" />
+      <File FileName="DivineProvisionProtoType/UIHelper/MsgBoxHelper.cs" Line="1" Column="1" />
+      <File FileName="DivineProvisionProtoType/Screens/LocationDetails/LocationDetailScreen.cs" Line="1" Column="1" />
+      <File FileName="DivineProvisionProtoType/Screens/LocationDetails/AddLocationScreeen.cs" Line="84" Column="5" />
+      <File FileName="DivineProvisionProtoType/Mocker/LocationMockerHelper.cs" Line="25" Column="25" />
+      <File FileName="DivineProvisionProtoType/UIHelper/ImageHelper.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Common" expanded="True" />
+          <Node name="DivineProvisionProtoTypeIOS" expanded="True">
+            <Node name="Mocker" expanded="True" />
+            <Node name="Screens" expanded="True">
+              <Node name="JobDetails" expanded="True" />
+              <Node name="LocationDetails" expanded="True" />
+              <Node name="MainScreen" expanded="True" />
+              <Node name="UserDetail" expanded="True" />
+              <Node name="LoginScreen.cs" selected="True" />
+            </Node>
+            <Node name="UIHelper" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

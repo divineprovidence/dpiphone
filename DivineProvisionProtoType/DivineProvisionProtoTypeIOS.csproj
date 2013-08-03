@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">iPhoneSimulator</Platform>
+    <ProductVersion>10.0.0</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{717DF5E1-8058-48E4-99A3-08CE102EF976}</ProjectGuid>
+    <ProjectTypeGuids>{6BC8ED88-2882-458C-8E55-DFD12B67127B};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>DivineProvisionProtoType</RootNamespace>
+    <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
+    <AssemblyName>DivineProvisionProtoType</AssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|iPhoneSimulator' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\iPhoneSimulator\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <MtouchLink>None</MtouchLink>
+    <MtouchDebug>true</MtouchDebug>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhoneSimulator' ">
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\iPhoneSimulator\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <MtouchLink>None</MtouchLink>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|iPhone' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\iPhone\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <MtouchDebug>true</MtouchDebug>
+    <CodesignKey>iPhone Developer</CodesignKey>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhone' ">
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\iPhone\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <CodesignKey>iPhone Developer</CodesignKey>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Ad-Hoc|iPhone' ">
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\iPhone\Ad-Hoc</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <BuildIpa>true</BuildIpa>
+    <ConsolePause>false</ConsolePause>
+    <CodesignKey>iPhone Distribution</CodesignKey>
+    <CodesignProvision>Automatic:AdHoc</CodesignProvision>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'AppStore|iPhone' ">
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\iPhone\AppStore</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodesignKey>iPhone Distribution</CodesignKey>
+    <ConsolePause>false</ConsolePause>
+    <CodesignProvision>Automatic:AppStore</CodesignProvision>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="monotouch" />
+    <Reference Include="MonoTouch.Dialog-1" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\" />
+    <Folder Include="Screens\" />
+    <Folder Include="UIHelper\" />
+    <Folder Include="Screens\MainScreen\" />
+    <Folder Include="Screens\JobDetails\" />
+    <Folder Include="Screens\UserDetail\" />
+    <Folder Include="Screens\JobBidDetail\" />
+    <Folder Include="Screens\LocationDetails\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Info.plist" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Main.cs" />
+    <Compile Include="AppDelegate.cs" />
+    <Compile Include="Screens\LoginScreen.designer.cs">
+      <DependentUpon>LoginScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIHelper\JobTableSource.cs" />
+    <Compile Include="Screens\MainScreen\MainScreen.cs" />
+    <Compile Include="Screens\MainScreen\MainScreen.designer.cs">
+      <DependentUpon>MainScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\JobDetails\JobDetailScreen.cs" />
+    <Compile Include="Screens\JobDetails\JobDetailScreen.designer.cs">
+      <DependentUpon>JobDetailScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\LoginScreen.cs" />
+    <Compile Include="DPConstant.cs" />
+    <Compile Include="UIHelper\JobBidTableSource.cs" />
+    <Compile Include="Mocker\StaticMocker.cs" />
+    <Compile Include="Mocker\UserMockerHelper.cs" />
+    <Compile Include="Mocker\JobMockerHelper.cs" />
+    <Compile Include="Mocker\JobBidMockerHelper.cs" />
+    <Compile Include="Screens\UserDetail\UserDetailScreen.cs" />
+    <Compile Include="Screens\UserDetail\UserDetailScreen.designer.cs">
+      <DependentUpon>UserDetailScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\JobBidDetail\JobBidDetailScreen.cs" />
+    <Compile Include="Screens\JobBidDetail\JobBidDetailScreen.designer.cs">
+      <DependentUpon>JobBidDetailScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIHelper\ImageHelper.cs" />
+    <Compile Include="Mocker\LocationMockerHelper.cs" />
+    <Compile Include="Screens\LocationDetails\LocationDetailScreen.cs" />
+    <Compile Include="Screens\LocationDetails\LocationDetailScreen.designer.cs">
+      <DependentUpon>LocationDetailScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\UserDetail\RegisterUser.cs" />
+    <Compile Include="Screens\UserDetail\RegisterUser.designer.cs">
+      <DependentUpon>RegisterUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIHelper\MsgBoxHelper.cs" />
+    <Compile Include="Screens\LocationDetails\AddLocationScreeen.cs" />
+    <Compile Include="Screens\LocationDetails\AddLocationScreeen.designer.cs">
+      <DependentUpon>AddLocationScreeen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\LocationDetails\ChooseLocation.cs" />
+    <Compile Include="Screens\LocationDetails\ChooseLocation.designer.cs">
+      <DependentUpon>ChooseLocation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIHelper\LocationTableSource.cs" />
+    <Compile Include="Screens\JobDetails\JobsViewScreen.cs" />
+    <Compile Include="Screens\JobDetails\JobsViewScreen.designer.cs">
+      <DependentUpon>JobsViewScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\JobDetails\AddJobScreen.cs" />
+    <Compile Include="Screens\JobDetails\AddJobScreen.designer.cs">
+      <DependentUpon>AddJobScreen.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <InterfaceDefinition Include="Screens\LoginScreen.xib" />
+    <InterfaceDefinition Include="Screens\MainScreen\MainScreen.xib" />
+    <InterfaceDefinition Include="Screens\JobDetails\JobDetailScreen.xib" />
+    <InterfaceDefinition Include="Screens\UserDetail\UserDetailScreen.xib" />
+    <InterfaceDefinition Include="Screens\JobBidDetail\JobBidDetailScreen.xib" />
+    <InterfaceDefinition Include="Screens\LocationDetails\LocationDetailScreen.xib" />
+    <InterfaceDefinition Include="Screens\UserDetail\RegisterUser.xib" />
+    <InterfaceDefinition Include="Screens\LocationDetails\AddLocationScreeen.xib" />
+    <InterfaceDefinition Include="Screens\LocationDetails\ChooseLocation.xib" />
+    <InterfaceDefinition Include="Screens\JobDetails\JobsViewScreen.xib" />
+    <InterfaceDefinition Include="Screens\JobDetails\AddJobScreen.xib" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Common.csproj">
+      <Project>{3DEFCF20-2E3A-4825-A669-50ABE92BFF82}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Images\jobhunt.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\member.png" />
+    <Content Include="Images\user.png" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,387 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		11852A1E0000000000000000 /* ChooseLocation.h in Sources */ = {isa = PBXBuildFile; fileRef = 151636BC0000000000000000 /* ChooseLocation.h */; };
+		1566EC6D0000000000000000 /* JobDetailScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 18F7F90B0000000000000000 /* JobDetailScreen.xib */; };
+		157BFCF40000000000000000 /* AddLocationScreeen.m in Sources */ = {isa = PBXBuildFile; fileRef = 190D09920000000000000000 /* AddLocationScreeen.m */; };
+		167D57DA0000000000000000 /* JobBidDetailScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1A0E64780000000000000000 /* JobBidDetailScreen.xib */; };
+		194CE3F00000000000000000 /* JobsViewScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 525DADD00000000000000000 /* JobsViewScreen.xib */; };
+		1A2660590000000000000000 /* AppDelegate.h in Sources */ = {isa = PBXBuildFile; fileRef = 1DB76CF70000000000000000 /* AppDelegate.h */; };
+		1BD289C00000000000000000 /* JobsViewScreen.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F63965E0000000000000000 /* JobsViewScreen.m */; };
+		1E024BF40000000000000000 /* UserDetailScreen.m in Sources */ = {isa = PBXBuildFile; fileRef = 219358920000000000000000 /* UserDetailScreen.m */; };
+		1E05374E0000000000000000 /* UserDetailScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 219643EC0000000000000000 /* UserDetailScreen.xib */; };
+		1F7E7D990000000000000000 /* JobBidDetailScreen.m in Sources */ = {isa = PBXBuildFile; fileRef = 230F8A370000000000000000 /* JobBidDetailScreen.m */; };
+		23A8338B0000000000000000 /* JobDetailScreen.m in Sources */ = {isa = PBXBuildFile; fileRef = 273940290000000000000000 /* JobDetailScreen.m */; };
+		2607ED810000000000000000 /* RegisterUser.m in Sources */ = {isa = PBXBuildFile; fileRef = 2998FA1F0000000000000000 /* RegisterUser.m */; };
+		281C14240000000000000000 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2BAD20C20000000000000000 /* CoreGraphics.framework */; };
+		28828EB20000000000000000 /* JobBidDetailScreen.h in Sources */ = {isa = PBXBuildFile; fileRef = 2C139B500000000000000000 /* JobBidDetailScreen.h */; };
+		2A499F540000000000000000 /* ChooseLocation.m in Sources */ = {isa = PBXBuildFile; fileRef = 2DDAABF20000000000000000 /* ChooseLocation.m */; };
+		2C0082680000000000000000 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 36B3A8420000000000000000 /* Foundation.framework */; };
+		2F918F060000000000000000 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3A44B4E00000000000000000 /* MapKit.framework */; };
+		308B1B990000000000000000 /* RegisterUser.xib in Resources */ = {isa = PBXBuildFile; fileRef = 341C28370000000000000000 /* RegisterUser.xib */; };
+		30A3177A0000000000000000 /* LoginScreen.m in Sources */ = {isa = PBXBuildFile; fileRef = 343424180000000000000000 /* LoginScreen.m */; };
+		30E148A00000000000000000 /* JobsViewScreen.h in Sources */ = {isa = PBXBuildFile; fileRef = 69F212800000000000000000 /* JobsViewScreen.h */; };
+		3120D9930000000000000000 /* LocationDetailScreen.h in Sources */ = {isa = PBXBuildFile; fileRef = 34B1E6310000000000000000 /* LocationDetailScreen.h */; };
+		321F491F0000000000000000 /* MainScreen.m in Sources */ = {isa = PBXBuildFile; fileRef = 35B055BD0000000000000000 /* MainScreen.m */; };
+		33229BA40000000000000000 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DD5C17E0000000000000000 /* UIKit.framework */; };
+		347F03150000000000000000 /* LocationDetailScreen.m in Sources */ = {isa = PBXBuildFile; fileRef = 38100FB30000000000000000 /* LocationDetailScreen.m */; };
+		3496FEF60000000000000000 /* AddJobScreen.h in Sources */ = {isa = PBXBuildFile; fileRef = 38280B940000000000000000 /* AddJobScreen.h */; };
+		36161BF50000000000000000 /* LoginScreen.h in Sources */ = {isa = PBXBuildFile; fileRef = 39A728930000000000000000 /* LoginScreen.h */; };
+		37C81C100000000000000000 /* LoginScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3B5928AE0000000000000000 /* LoginScreen.xib */; };
+		38DB9C230000000000000000 /* UserDetailScreen.h in Sources */ = {isa = PBXBuildFile; fileRef = 3C6CA8C10000000000000000 /* UserDetailScreen.h */; };
+		38F6835E0000000000000000 /* ChooseLocation.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3C878FFC0000000000000000 /* ChooseLocation.xib */; };
+		3B3B56190000000000000000 /* AddLocationScreeen.h in Sources */ = {isa = PBXBuildFile; fileRef = 3ECC62B70000000000000000 /* AddLocationScreeen.h */; };
+		3B71248F0000000000000000 /* LocationDetailScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3F02312D0000000000000000 /* LocationDetailScreen.xib */; };
+		3DC8C5400000000000000000 /* AddLocationScreeen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 76D98F200000000000000000 /* AddLocationScreeen.xib */; };
+		3DD0DE850000000000000000 /* AddJobScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 161EB2300000000000000000 /* AddJobScreen.xib */; };
+		AE3BE5500000000000000000 /* JobDetailScreen.h in Sources */ = {isa = PBXBuildFile; fileRef = E74CAF300000000000000000 /* JobDetailScreen.h */; };
+		CC8A18C00000000000000000 /* MainScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1059AE2A0000000000000000 /* MainScreen.xib */; };
+		CF8994E00000000000000000 /* MainScreen.h in Sources */ = {isa = PBXBuildFile; fileRef = 1089A5EC0000000000000000 /* MainScreen.h */; };
+		D43784B00000000000000000 /* RegisterUser.h in Sources */ = {isa = PBXBuildFile; fileRef = 10D484E90000000000000000 /* RegisterUser.h */; };
+		D5B742C00000000000000000 /* AddJobScreen.m in Sources */ = {isa = PBXBuildFile; fileRef = 10EC80CA0000000000000000 /* AddJobScreen.m */; };
+		FC24EB000000000000000000 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 48D318900000000000000000 /* AppDelegate.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1059AE2A0000000000000000 /* MainScreen.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = MainScreen.xib; path = Screens/MainScreen/MainScreen.xib; sourceTree = "<group>"; };
+		1089A5EC0000000000000000 /* MainScreen.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MainScreen.h; sourceTree = "<group>"; };
+		10D484E90000000000000000 /* RegisterUser.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RegisterUser.h; sourceTree = "<group>"; };
+		10EC80CA0000000000000000 /* AddJobScreen.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AddJobScreen.m; sourceTree = "<group>"; };
+		151636BC0000000000000000 /* ChooseLocation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ChooseLocation.h; sourceTree = "<group>"; };
+		161EB2300000000000000000 /* AddJobScreen.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = AddJobScreen.xib; path = Screens/JobDetails/AddJobScreen.xib; sourceTree = "<group>"; };
+		166CE1C00000000000000000 /* DivineProvisionProtoTypeIOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DivineProvisionProtoTypeIOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		18F7F90B0000000000000000 /* JobDetailScreen.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = JobDetailScreen.xib; path = Screens/JobDetails/JobDetailScreen.xib; sourceTree = "<group>"; };
+		190D09920000000000000000 /* AddLocationScreeen.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AddLocationScreeen.m; sourceTree = "<group>"; };
+		1A0E64780000000000000000 /* JobBidDetailScreen.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = JobBidDetailScreen.xib; path = Screens/JobBidDetail/JobBidDetailScreen.xib; sourceTree = "<group>"; };
+		1DB76CF70000000000000000 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		1F63965E0000000000000000 /* JobsViewScreen.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JobsViewScreen.m; sourceTree = "<group>"; };
+		219358920000000000000000 /* UserDetailScreen.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UserDetailScreen.m; sourceTree = "<group>"; };
+		219643EC0000000000000000 /* UserDetailScreen.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = UserDetailScreen.xib; path = Screens/UserDetail/UserDetailScreen.xib; sourceTree = "<group>"; };
+		230F8A370000000000000000 /* JobBidDetailScreen.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JobBidDetailScreen.m; sourceTree = "<group>"; };
+		273940290000000000000000 /* JobDetailScreen.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JobDetailScreen.m; sourceTree = "<group>"; };
+		2998FA1F0000000000000000 /* RegisterUser.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RegisterUser.m; sourceTree = "<group>"; };
+		2BAD20C20000000000000000 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		2C139B500000000000000000 /* JobBidDetailScreen.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JobBidDetailScreen.h; sourceTree = "<group>"; };
+		2DDAABF20000000000000000 /* ChooseLocation.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ChooseLocation.m; sourceTree = "<group>"; };
+		341C28370000000000000000 /* RegisterUser.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = RegisterUser.xib; path = Screens/UserDetail/RegisterUser.xib; sourceTree = "<group>"; };
+		343424180000000000000000 /* LoginScreen.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LoginScreen.m; sourceTree = "<group>"; };
+		34B1E6310000000000000000 /* LocationDetailScreen.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LocationDetailScreen.h; sourceTree = "<group>"; };
+		35B055BD0000000000000000 /* MainScreen.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MainScreen.m; sourceTree = "<group>"; };
+		36B3A8420000000000000000 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		38100FB30000000000000000 /* LocationDetailScreen.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LocationDetailScreen.m; sourceTree = "<group>"; };
+		38280B940000000000000000 /* AddJobScreen.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AddJobScreen.h; sourceTree = "<group>"; };
+		39A728930000000000000000 /* LoginScreen.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LoginScreen.h; sourceTree = "<group>"; };
+		3A44B4E00000000000000000 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		3B5928AE0000000000000000 /* LoginScreen.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = LoginScreen.xib; path = Screens/LoginScreen.xib; sourceTree = "<group>"; };
+		3C6CA8C10000000000000000 /* UserDetailScreen.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = UserDetailScreen.h; sourceTree = "<group>"; };
+		3C878FFC0000000000000000 /* ChooseLocation.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = ChooseLocation.xib; path = Screens/LocationDetails/ChooseLocation.xib; sourceTree = "<group>"; };
+		3DD5C17E0000000000000000 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		3ECC62B70000000000000000 /* AddLocationScreeen.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AddLocationScreeen.h; sourceTree = "<group>"; };
+		3F02312D0000000000000000 /* LocationDetailScreen.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = LocationDetailScreen.xib; path = Screens/LocationDetails/LocationDetailScreen.xib; sourceTree = "<group>"; };
+		48D318900000000000000000 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		525DADD00000000000000000 /* JobsViewScreen.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = JobsViewScreen.xib; path = Screens/JobDetails/JobsViewScreen.xib; sourceTree = "<group>"; };
+		69F212800000000000000000 /* JobsViewScreen.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JobsViewScreen.h; sourceTree = "<group>"; };
+		76D98F200000000000000000 /* AddLocationScreeen.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = AddLocationScreeen.xib; path = Screens/LocationDetails/AddLocationScreeen.xib; sourceTree = "<group>"; };
+		E74CAF300000000000000000 /* JobDetailScreen.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JobDetailScreen.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		E2937A000000000000000000 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				33229BA40000000000000000 /* UIKit.framework in Frameworks */,
+				2F918F060000000000000000 /* MapKit.framework in Frameworks */,
+				2C0082680000000000000000 /* Foundation.framework in Frameworks */,
+				281C14240000000000000000 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		117131180000000000000000 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				166CE1C00000000000000000 /* DivineProvisionProtoTypeIOS.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		149EF4200000000000000000 /* JobBidDetail */ = {
+			isa = PBXGroup;
+			children = (
+				1A0E64780000000000000000 /* JobBidDetailScreen.xib */,
+			);
+			name = JobBidDetail;
+			sourceTree = "<group>";
+		};
+		17E18D9E0000000000000000 /* Screens */ = {
+			isa = PBXGroup;
+			children = (
+				3B5928AE0000000000000000 /* LoginScreen.xib */,
+				149EF4200000000000000000 /* JobBidDetail */,
+				23AB1EE50000000000000000 /* JobDetails */,
+				9B5570700000000000000000 /* LocationDetails */,
+				1B0CD4040000000000000000 /* MainScreen */,
+				2C4969C60000000000000000 /* UserDetail */,
+			);
+			name = Screens;
+			sourceTree = "<group>";
+		};
+		1B0CD4040000000000000000 /* MainScreen */ = {
+			isa = PBXGroup;
+			children = (
+				1059AE2A0000000000000000 /* MainScreen.xib */,
+			);
+			name = MainScreen;
+			sourceTree = "<group>";
+		};
+		1C2456F20000000000000000 = {
+			isa = PBXGroup;
+			children = (
+				36CAC4050000000000000000 /* DivineProvisionProtoTypeIOS */,
+				38F5CF080000000000000000 /* Frameworks */,
+				117131180000000000000000 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		23AB1EE50000000000000000 /* JobDetails */ = {
+			isa = PBXGroup;
+			children = (
+				161EB2300000000000000000 /* AddJobScreen.xib */,
+				18F7F90B0000000000000000 /* JobDetailScreen.xib */,
+				525DADD00000000000000000 /* JobsViewScreen.xib */,
+			);
+			name = JobDetails;
+			sourceTree = "<group>";
+		};
+		2C4969C60000000000000000 /* UserDetail */ = {
+			isa = PBXGroup;
+			children = (
+				341C28370000000000000000 /* RegisterUser.xib */,
+				219643EC0000000000000000 /* UserDetailScreen.xib */,
+			);
+			name = UserDetail;
+			sourceTree = "<group>";
+		};
+		36CAC4050000000000000000 /* DivineProvisionProtoTypeIOS */ = {
+			isa = PBXGroup;
+			children = (
+				38280B940000000000000000 /* AddJobScreen.h */,
+				3ECC62B70000000000000000 /* AddLocationScreeen.h */,
+				1DB76CF70000000000000000 /* AppDelegate.h */,
+				151636BC0000000000000000 /* ChooseLocation.h */,
+				2C139B500000000000000000 /* JobBidDetailScreen.h */,
+				E74CAF300000000000000000 /* JobDetailScreen.h */,
+				69F212800000000000000000 /* JobsViewScreen.h */,
+				34B1E6310000000000000000 /* LocationDetailScreen.h */,
+				39A728930000000000000000 /* LoginScreen.h */,
+				1089A5EC0000000000000000 /* MainScreen.h */,
+				10D484E90000000000000000 /* RegisterUser.h */,
+				3C6CA8C10000000000000000 /* UserDetailScreen.h */,
+				17E18D9E0000000000000000 /* Screens */,
+				382AF6EE0000000000000000 /* Supporting Files */,
+			);
+			name = DivineProvisionProtoTypeIOS;
+			sourceTree = "<group>";
+		};
+		382AF6EE0000000000000000 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				10EC80CA0000000000000000 /* AddJobScreen.m */,
+				190D09920000000000000000 /* AddLocationScreeen.m */,
+				48D318900000000000000000 /* AppDelegate.m */,
+				2DDAABF20000000000000000 /* ChooseLocation.m */,
+				230F8A370000000000000000 /* JobBidDetailScreen.m */,
+				273940290000000000000000 /* JobDetailScreen.m */,
+				1F63965E0000000000000000 /* JobsViewScreen.m */,
+				38100FB30000000000000000 /* LocationDetailScreen.m */,
+				343424180000000000000000 /* LoginScreen.m */,
+				35B055BD0000000000000000 /* MainScreen.m */,
+				2998FA1F0000000000000000 /* RegisterUser.m */,
+				219358920000000000000000 /* UserDetailScreen.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		38F5CF080000000000000000 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				3DD5C17E0000000000000000 /* UIKit.framework */,
+				3A44B4E00000000000000000 /* MapKit.framework */,
+				36B3A8420000000000000000 /* Foundation.framework */,
+				2BAD20C20000000000000000 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		9B5570700000000000000000 /* LocationDetails */ = {
+			isa = PBXGroup;
+			children = (
+				76D98F200000000000000000 /* AddLocationScreeen.xib */,
+				3C878FFC0000000000000000 /* ChooseLocation.xib */,
+				3F02312D0000000000000000 /* LocationDetailScreen.xib */,
+			);
+			name = LocationDetails;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		26D77CCC0000000000000000 /* DivineProvisionProtoTypeIOS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C310FB900000000000000000 /* Build configuration list for PBXNativeTarget "DivineProvisionProtoTypeIOS" */;
+			buildPhases = (
+				214D5C8E0000000000000000 /* Sources */,
+				E2937A000000000000000000 /* Frameworks */,
+				24DE692C0000000000000000 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = DivineProvisionProtoTypeIOS;
+			productName = DivineProvisionProtoTypeIOS;
+			productReference = 166CE1C00000000000000000 /* DivineProvisionProtoTypeIOS.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		20F0BF7A0000000000000000 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+			};
+			buildConfigurationList = 318AA2A60000000000000000 /* Build configuration list for PBXProject "DivineProvisionProtoTypeIOS" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 1C2456F20000000000000000;
+			productRefGroup = 117131180000000000000000 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				26D77CCC0000000000000000 /* DivineProvisionProtoTypeIOS */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		24DE692C0000000000000000 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				37C81C100000000000000000 /* LoginScreen.xib in Resources */,
+				CC8A18C00000000000000000 /* MainScreen.xib in Resources */,
+				1566EC6D0000000000000000 /* JobDetailScreen.xib in Resources */,
+				1E05374E0000000000000000 /* UserDetailScreen.xib in Resources */,
+				167D57DA0000000000000000 /* JobBidDetailScreen.xib in Resources */,
+				3B71248F0000000000000000 /* LocationDetailScreen.xib in Resources */,
+				308B1B990000000000000000 /* RegisterUser.xib in Resources */,
+				3DC8C5400000000000000000 /* AddLocationScreeen.xib in Resources */,
+				38F6835E0000000000000000 /* ChooseLocation.xib in Resources */,
+				194CE3F00000000000000000 /* JobsViewScreen.xib in Resources */,
+				3DD0DE850000000000000000 /* AddJobScreen.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		214D5C8E0000000000000000 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1A2660590000000000000000 /* AppDelegate.h in Sources */,
+				FC24EB000000000000000000 /* AppDelegate.m in Sources */,
+				36161BF50000000000000000 /* LoginScreen.h in Sources */,
+				30A3177A0000000000000000 /* LoginScreen.m in Sources */,
+				CF8994E00000000000000000 /* MainScreen.h in Sources */,
+				321F491F0000000000000000 /* MainScreen.m in Sources */,
+				AE3BE5500000000000000000 /* JobDetailScreen.h in Sources */,
+				23A8338B0000000000000000 /* JobDetailScreen.m in Sources */,
+				38DB9C230000000000000000 /* UserDetailScreen.h in Sources */,
+				1E024BF40000000000000000 /* UserDetailScreen.m in Sources */,
+				28828EB20000000000000000 /* JobBidDetailScreen.h in Sources */,
+				1F7E7D990000000000000000 /* JobBidDetailScreen.m in Sources */,
+				3120D9930000000000000000 /* LocationDetailScreen.h in Sources */,
+				347F03150000000000000000 /* LocationDetailScreen.m in Sources */,
+				D43784B00000000000000000 /* RegisterUser.h in Sources */,
+				2607ED810000000000000000 /* RegisterUser.m in Sources */,
+				3B3B56190000000000000000 /* AddLocationScreeen.h in Sources */,
+				157BFCF40000000000000000 /* AddLocationScreeen.m in Sources */,
+				11852A1E0000000000000000 /* ChooseLocation.h in Sources */,
+				2A499F540000000000000000 /* ChooseLocation.m in Sources */,
+				30E148A00000000000000000 /* JobsViewScreen.h in Sources */,
+				1BD289C00000000000000000 /* JobsViewScreen.m in Sources */,
+				3496FEF60000000000000000 /* AddJobScreen.h in Sources */,
+				D5B742C00000000000000000 /* AddJobScreen.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		286F75CA0000000000000000 /* MonoTouch */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				SDKROOT = iphoneos;
+			};
+			name = MonoTouch;
+		};
+		36AE10F30000000000000000 /* MonoTouch */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = NO;
+				PRODUCT_NAME = DivineProvisionProtoTypeIOS;
+				WRAPPER_EXTENSION = app;
+			};
+			name = MonoTouch;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		318AA2A60000000000000000 /* Build configuration list for PBXProject "DivineProvisionProtoTypeIOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				286F75CA0000000000000000 /* MonoTouch */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = MonoTouch;
+		};
+		C310FB900000000000000000 /* Build configuration list for PBXNativeTarget "DivineProvisionProtoTypeIOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				36AE10F30000000000000000 /* MonoTouch */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = MonoTouch;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 20F0BF7A0000000000000000 /* Project object */;
+}

@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivineProvisionProtoTypeIOS", "DivineProvisionProtoType\DivineProvisionProtoTypeIOS.csproj", "{717DF5E1-8058-48E4-99A3-08CE102EF976}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{3DEFCF20-2E3A-4825-A669-50ABE92BFF82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DEFCF20-2E3A-4825-A669-50ABE92BFF82}.Ad-Hoc|iPhone.ActiveCfg = Release|Any CPU
+		{3DEFCF20-2E3A-4825-A669-50ABE92BFF82}.Ad-Hoc|iPhone.Build.0 = Release|Any CPU
+		{3DEFCF20-2E3A-4825-A669-50ABE92BFF82}.AppStore|iPhone.ActiveCfg = Release|Any CPU
+		{3DEFCF20-2E3A-4825-A669-50ABE92BFF82}.AppStore|iPhone.Build.0 = Release|Any CPU
+		{3DEFCF20-2E3A-4825-A669-50ABE92BFF82}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{3DEFCF20-2E3A-4825-A669-50ABE92BFF82}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{3DEFCF20-2E3A-4825-A669-50ABE92BFF82}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{3DEFCF20-2E3A-4825-A669-50ABE92BFF82}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{3DEFCF20-2E3A-4825-A669-50ABE92BFF82}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{3DEFCF20-2E3A-4825-A669-50ABE92BFF82}.Release|iPhone.Build.0 = Release|Any CPU
+		{3DEFCF20-2E3A-4825-A669-50ABE92BFF82}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{3DEFCF20-2E3A-4825-A669-50ABE92BFF82}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{717DF5E1-8058-48E4-99A3-08CE102EF976}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{717DF5E1-8058-48E4-99A3-08CE102EF976}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{717DF5E1-8058-48E4-99A3-08CE102EF976}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{717DF5E1-8058-48E4-99A3-08CE102EF976}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{717DF5E1-8058-48E4-99A3-08CE102EF976}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{717DF5E1-8058-48E4-99A3-08CE102EF976}.Debug|iPhone.Build.0 = Debug|iPhone
+		{717DF5E1-8058-48E4-99A3-08CE102EF976}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{717DF5E1-8058-48E4-99A3-08CE102EF976}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{717DF5E1-8058-48E4-99A3-08CE102EF976}.Release|iPhone.ActiveCfg = Release|iPhone
+		{717DF5E1-8058-48E4-99A3-08CE102EF976}.Release|iPhone.Build.0 = Release|iPhone
+		{717DF5E1-8058-48E4-99A3-08CE102EF976}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{717DF5E1-8058-48E4-99A3-08CE102EF976}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = DivineProvisionProtoType\DivineProvisionProtoTypeIOS.csproj
+	EndGlobalSection
+EndGlobal
